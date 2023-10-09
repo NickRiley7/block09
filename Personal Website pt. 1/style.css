@@ -34,7 +34,7 @@ h1{
     float: left;
     padding: 0% 5%;
     font-family: 'Times New Roman', Times, serif;
-
+    position: fixed;
 }
 
 h2{
@@ -44,6 +44,7 @@ h2{
     margin-right: 20px;
     padding: 5px;
     color: rgb(122, 131, 96);
+    padding-inline: 50px;
 }
 
 section{
@@ -75,6 +76,9 @@ footer{
     background-color: rgba(52, 54, 54, 0.397);
     margin: -11% 2%;
     padding: 2% 20%;
+    position: fixed;
+    top: 980px;
+    right: 547px;
 }
 
 
