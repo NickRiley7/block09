@@ -1,0 +1,82 @@
+body{
+    background-color: rgba(8, 8, 8, 0.938);
+}
+
+
+.header{
+    padding: 2px 2px;
+    background: rgb(17, 13, 13);
+    display: inline-block;
+    width: 98%;
+    height: 75px;
+    border-style: solid;
+    border-color: rgb(9, 40, 49);
+}
+
+.content{
+    padding: 20px;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.sticky + .content{
+    padding-top: 100px;
+}
+
+h1{
+    color: rgb(141, 146, 92);
+    width: 200px;
+    display: inline-flexbox;
+    float: left;
+    padding: 0% 5%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h2{
+    display: inline-flexbox;
+    float: right;
+    border-style: dotted;
+    margin-right: 20px;
+    padding: 5px;
+    color: rgb(122, 131, 96);
+}
+
+section{
+    padding: px 100px;
+    background-color: rgba(119, 124, 104, 0.459);
+    height: 900px;
+    width: 700px;
+    margin: 5% 25%;
+}
+
+p{
+    color: #7c815d;
+    background-color: rgb(19, 19, 27);
+    padding: px;
+    text-align: center;
+    font-size: 600%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    border-style: inset;
+    border-color: rgb(107, 124, 46);
+}
+
+
+text{
+    color: rgb(8, 6, 6);
+    font-size: 50px;
+}
+
+footer{
+    background-color: rgba(52, 54, 54, 0.397);
+    margin: -11% 2%;
+    padding: 2% 20%;
+}
+
+
+
+    
