@@ -74,18 +74,12 @@ text{
 
 footer{
     background-color: rgba(52, 54, 54, 0.397);
-    margin: -11% 2%;
+    margin: 2% 2%;
     padding: 2% 20%;
-    position: fixed;
-    top: 980px;
-    right: 547px;
+    width: 50%;
 }
 
 img{
-    inline-size: 40%;
-    padding: 200px 200px;
-    margin: -25% 01%;
+    display: grid
 }
 
-
-    
