@@ -83,3 +83,31 @@ img{
     display: grid
 }
 
+.grid-container{
+    display: flex;
+    background-color: rgb(20, 53, 17);
+    justify-content: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    padding: 5%;
+}
+
+.form-submitted{
+    color: aliceblue;
+    display: flex;
+    padding: 20%;
+    justify-content: center;
+    font-size: 500%;
+}
+
+.button2{
+    display: flex;
+    justify-content: center;
+}
+
+    
+
+
